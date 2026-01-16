@@ -1,0 +1,19 @@
+{
+  "cleaned_at": "2026-01-07T22:25:32.205266",
+  "raw_row_count": 1067371,
+  "final_row_count": 1027017,
+  "rows_removed": 40354,
+  "removal_percentage": 3.78,
+  "date_range": {
+    "start": "2009-12-01",
+    "end": "2011-12-09"
+  },
+  "total_revenue": 19014209.837999992,
+  "unique_customers": 5939,
+  "unique_products": 4932,
+  "flags": {
+    "returns": 19103,
+    "cancellations": 19104,
+    "anonymous": 229202
+  }
+}
